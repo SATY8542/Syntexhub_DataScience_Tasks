@@ -1,20 +1,48 @@
-# Pandas CSV Reader & Basic Analysis
+# 📊 Pandas CSV Reader & Basic Analysis
 
-## Project Description
-This project demonstrates how to use the Pandas library to read CSV files, explore datasets, perform basic data analysis, filter data, and save the processed results. It is designed to help beginners understand essential data manipulation techniques in Python.
+A beginner-friendly Python project that demonstrates how to use **Pandas** to read CSV files, explore datasets, perform basic data analysis, filter data, and save processed results.
 
-## Features
-- Read CSV file into a Pandas DataFrame
-- Display the first and last records
-- Check column names and data types
-- Generate summary statistics
-- Filter rows based on conditions
-- Save filtered data to a new CSV file
+---
 
-## Technologies Used
-- Python 3.x
-- Pandas
-- OpenPyXL (optional, for Excel support)
+## 🚀 Features
+
+- 📂 Read CSV files into a Pandas DataFrame
+- 👀 Display the first and last records
+- 🏷️ Check column names and data types
+- 📊 Generate summary statistics
+- 🔎 Filter rows based on conditions
+- 💾 Save filtered data to a new CSV file
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Python 3.x | Core programming |
+| Pandas | Data manipulation and analysis |
+| OpenPyXL | Optional Excel support |
+
+---
+
+## 🔄 Data Analysis Workflow
+
+```text
+CSV Dataset
+     ↓
+Read CSV using Pandas
+     ↓
+Explore Dataset
+     ↓
+Check Columns & Data Types
+     ↓
+Generate Summary Statistics
+     ↓
+Filter Data
+     ↓
+Save Processed Data
+     ↓
+output/filtered.csv
 
 ## Project Structure
 
@@ -93,3 +121,4 @@ output/filtered.csv
 ## Author
 
 **Satyendra Singh**
+GitHub: https://github.com/SATY8542

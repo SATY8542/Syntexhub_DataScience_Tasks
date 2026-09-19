@@ -1,19 +1,47 @@
-# Data Cleaning Utility
+# 🧹 Data Cleaning Utility
 
-## Project Description
-This project demonstrates basic data cleaning using the Pandas library. It reads a CSV file, identifies missing values, fills missing data, removes duplicate records, standardizes column names, and saves the cleaned dataset.
+A Python-based data cleaning utility that uses **Pandas** to process CSV datasets and prepare cleaner, more consistent data.
 
-## Features
-- Read CSV file
-- Detect missing values
-- Fill missing values
-- Remove duplicate records
-- Standardize column names
-- Save cleaned data to a new CSV file
+The project detects and handles missing values, removes duplicate records, standardizes column names, and saves the cleaned dataset as a new CSV file.
 
-## Technologies Used
-- Python 3.x
-- Pandas
+---
+
+## 🚀 Features
+
+- 📂 Read CSV files
+- 🔍 Detect missing values
+- 🧩 Fill missing values
+- 🗑️ Remove duplicate records
+- ✨ Standardize column names
+- 💾 Save cleaned data to a new CSV file
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Python 3.x | Core programming |
+| Pandas | Data processing and cleaning |
+
+---
+
+## 🔄 Data Cleaning Workflow
+
+```text
+CSV Dataset
+     ↓
+Read Dataset
+     ↓
+Detect Missing Values
+     ↓
+Fill Missing Values
+     ↓
+Remove Duplicate Records
+     ↓
+Standardize Column Names
+     ↓
+Save Cleaned Dataset
 
 ## Project Structure
 
@@ -54,3 +82,4 @@ output/cleaned_data.csv
 ## Author
 
 **Satyendra Singh**
+GitHub: https://github.com/SATY8542
